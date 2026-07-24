@@ -33,7 +33,9 @@ Required Inputs:
 4. Timezone Offset: The offset from UTC (e.g., if the timestamp is local time in Dammam, use 3.0. If the timestamp is already in UTC, use 0.0).
 
 Contributing
+
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 License
+
 This project is licensed under the GPL-3.0 License. Developed by TECRS.
