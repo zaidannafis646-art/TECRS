@@ -25,6 +25,7 @@ Option B: Manual Installation
 
 Once installed, the tool can be found in your Processing Toolbox:
 Processing Toolbox -> TECRS -> Urban Analysis -> Building Height Extractor
+
 Required Inputs:
 1. Building Footprints: A polygon vector layer of your buildings.
 2. Shadow Polygons: A polygon vector layer of your extracted shadows.
