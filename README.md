@@ -10,7 +10,7 @@ How It Works
 4. Measures the maximum overlapping line segment to find the true shadow length (L).
 5. Calculates the height and populates a new Height_m field in the output vector layer.
 
-📥 Installation
+Installation
 
 Option A: Via QGIS Plugin Repository
 Open QGIS.
